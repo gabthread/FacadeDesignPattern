@@ -1,0 +1,6 @@
+c:\users\gonzalezg\documents\visual studio 2015\Projects\FacadeDesignPatternDemo\FacadeDesignPatternDemo\bin\Debug\FacadeDesignPatternDemo.exe.config
+c:\users\gonzalezg\documents\visual studio 2015\Projects\FacadeDesignPatternDemo\FacadeDesignPatternDemo\bin\Debug\FacadeDesignPatternDemo.exe
+c:\users\gonzalezg\documents\visual studio 2015\Projects\FacadeDesignPatternDemo\FacadeDesignPatternDemo\bin\Debug\FacadeDesignPatternDemo.pdb
+c:\users\gonzalezg\documents\visual studio 2015\Projects\FacadeDesignPatternDemo\FacadeDesignPatternDemo\obj\Debug\FacadeDesignPatternDemo.csprojResolveAssemblyReference.cache
+c:\users\gonzalezg\documents\visual studio 2015\Projects\FacadeDesignPatternDemo\FacadeDesignPatternDemo\obj\Debug\FacadeDesignPatternDemo.exe
+c:\users\gonzalezg\documents\visual studio 2015\Projects\FacadeDesignPatternDemo\FacadeDesignPatternDemo\obj\Debug\FacadeDesignPatternDemo.pdb
